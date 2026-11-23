@@ -1,0 +1,6 @@
+friend = input("Name a friend: ")
+meal = input("Choose a meal: ")
+spot = input("Pick a place: ")
+print(friend + " opened a cafe in " + spot + ".")
+print("The only dish was " + meal + ".")
+print("It closed early because " + friend + " ate all the stock!")
